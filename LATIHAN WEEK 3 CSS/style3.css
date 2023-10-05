@@ -1,0 +1,14 @@
+body{
+    background-color: darkgrey;
+}
+
+h1{
+    font-style: italic;
+    font-family: sans-serif;
+    color: crimson;
+}
+
+p{
+    font-weight: bold;
+    color: black;
+}

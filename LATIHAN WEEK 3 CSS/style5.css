@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: cornsilk;
+    text-indent: 30px;
+}
+
+h2{
+    text-align: center;
+    color: azure;
+    text-transform: initial;
+}
+
+h3{
+    text-align: center;
+    color: aqua;
+    text-decoration: wavy;
+}
+
+p{
+    text-align: justify;
+    color: darkkhaki;
+    letter-spacing: normal;
+}
