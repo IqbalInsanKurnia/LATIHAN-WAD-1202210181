@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Laithan Bersama Pak Aman SI4505</title>
+  </head>
+
+  <body>
+    <h1>Humam Fire Mode!!!</h1>
+    <img id="myImage" onclick="changeImage()" src="img/humam.jpg" width="200" height="280">
+    <p>Click the Image to change image.</p>
+    <script>
+      function changeImage() {
+        var image = document.getElementById('myImage');
+        if (image.src.match('bulbon')) {
+          image.src = "img/humam.jpg";
+        } else {
+          image.src = "img/humamon.jpg"
+        }
+      }
+    </script>
+  </body>
+</html>
